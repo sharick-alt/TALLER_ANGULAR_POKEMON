@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.css"],
+  "sourcesContent": [":root {\n  --bg: #f8fafc;\n  --card: #ffffff;\n  --border: #e2e8f0;\n  --text: #0f172a;\n  --muted: #64748b;\n  --primary: #dc2626;\n  --primary-hover: #b91c1c;\n}\n\n* {\n  box-sizing: border-box;\n}\n\nhtml,\nbody {\n  margin: 0;\n  padding: 0;\n  min-height: 100%;\n}\n\nbody {\n  font-family: system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif;\n  background: var(--bg);\n  color: var(--text);\n}\n"],
+  "mappings": ";AAAA;AACE,QAAM;AACN,UAAQ;AACR,YAAU;AACV,UAAQ;AACR,WAAS;AACT,aAAW;AACX,mBAAiB;AACnB;AAEA;AACE,cAAY;AACd;AAEA;AACA;AACE,UAAQ;AACR,WAAS;AACT,cAAY;AACd;AAEA;AACE;AAAA,IAAa,SAAS;AAAA,IAAE,aAAa;AAAA,IAAE,UAAU;AAAA,IAAE,MAAM;AAAA,IAAE;AAC3D,cAAY,IAAI;AAChB,SAAO,IAAI;AACb;",
+  "names": []
+}
